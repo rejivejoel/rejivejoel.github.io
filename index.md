@@ -1,1 +1,1 @@
-# Joel Rejive's CPSC 120L Portfolio
+# CPSC 120L Portfolio
