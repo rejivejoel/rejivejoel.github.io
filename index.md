@@ -7,6 +7,8 @@
 ## Favorite Projects:
 
 ```diff
-+ 
++ Lab 1 - Part 1
+```
+* This was probably one of my favorite labs because while we didn't do much for the actual lab we got a basic understanding on how github works and how to pull/commit changes we make in our code to github. This in my opinion is a very important skill and is something I see myself in the future doing. Prior to this lab I wasn't really sure on how to use github but this lab really helped me a lot.
 
-<span style="color: red;">This text is red.</span>
+
