@@ -11,18 +11,18 @@
 ```diff
 + Lab 1 - Part 1
 ```
-* This was probably one of my favorite labs because while we didn't do much for the actual lab we got a basic understanding on how github works and how to pull/commit changes we make in our code to github. This in my opinion is a very important skill and is something I see myself in the future doing. Prior to this lab I wasn't really sure on how to use github but this lab really helped me a lot.
+* This was probably one of my favorite labs because while we didn't do much for the actual lab we got a basic understanding on how github works and how to pull/commit changes we make in our code to github. This in my opinion is a very important skill and is something I see myself in the future doing. Prior to this lab I wasn't really sure on how to use github but this lab really helped me a lot. This lab taught me how the basics of programming as well as the basics of using git commands and working with github.
 
 ```diff
 + Lab 3 - Part 1
 ```
 
-* This was another of my favorite labs that I did throughout the semester. I loved this lab because we took given inputs and applied an equation to it to find our the BMR of a person. This was very exciting because we could enter in certain values and it would run it back through a pre-existing equation and give us the BMR of that person. I believe this lab was useful because it helped us think critically while we were coding.
+* This was another of my favorite labs that I did throughout the semester. I loved this lab because we took given inputs and applied an equation to it to find our the BMR of a person. This was very exciting because we could enter in certain values and it would run it back through a pre-existing equation and give us the BMR of that person. I believe this lab was useful because it helped us think critically while we were coding. This lab taught me how to integrate math into my code and run equations with variables.
 
 
 ```diff
 + Lab 6 - Part 1
 ```
 
-* From the entire semester I would say this was my favorite lab activity. Though this lab was pretty simple it was cool to see how we could insert custom variables into a sentence. For example when we were making our sandwich we could choose what kind of bread and meat and condiment we wanted. Once we did that it would produce a sentence containing the condiments that we provided. This was really cool because regardless of what value you put into it, it would be its own unique sentence.
+* From the entire semester I would say this was my favorite lab activity. Though this lab was pretty simple it was cool to see how we could insert custom variables into a sentence. For example when we were making our sandwich we could choose what kind of bread and meat and condiment we wanted. Once we did that it would produce a sentence containing the condiments that we provided. This was really cool because regardless of what value you put into it, it would be its own unique sentence. This lab taught me how to use custom inputs and place them into the sentence that was defined in the code.
 
